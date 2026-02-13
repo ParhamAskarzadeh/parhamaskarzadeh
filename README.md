@@ -1,147 +1,76 @@
 # Parham Askarzadeh
 
-**Site Reliability Engineer (SRE) | Platform Team Lead | Automation Enthusiast**
+**Platform Engineer focused on building the systems companies scale on**
 
-Designing resilient systems, building scalable infrastructure, and automating everything that should never be done manually.
+I build platforms from zero to production scale — engineered for reliability and shaped by real business needs.
 
-📍 Tehran, Iran
-📫 [parhamaskarzadeh80@gmail.com](mailto:parhamaskarzadeh80@gmail.com)
-🔗 https://www.linkedin.com/in/parham-askarzadeh
-🌐 (Add your personal website once it's live)
+Tehran, Iran
+LinkedIn: https://www.linkedin.com/in/parham-askarzadeh
 
 ---
 
-## ⚡ About Me
+## What I Do
 
-Site Reliability Engineer with 4+ years of experience building high-availability platforms and production-grade data systems.
+I operate at the intersection of engineering and business, transforming product vision into resilient platforms that enable companies to grow with confidence.
 
-I focus on:
+Experienced in owning systems end-to-end — from early architecture decisions to high-scale production environments.
 
-* Reliability-first infrastructure
-* Observability-driven operations
-* Automation at scale
-* Blameless incident culture
-* Performance optimization
+I focus on building infrastructure that reduces operational friction, accelerates teams, and remains dependable under pressure.
 
-**Mission:** Build systems that don’t wake people up at 3AM.
+> Build platforms that scale with the company — not against it.
 
 ---
 
-## 🚀 Current Role
+## Core Expertise
 
-### SRE & Platform Team Lead — Maktabkhooneh
-
-* Leading a cross-functional platform team delivering scalable infrastructure.
-* Architected automated course production pipelines that expanded catalog size and increased revenue.
-* Built GPT-powered automations for moderation, support workflows, and grading — reducing operational costs and response times.
-* Designed Airflow-based video processing pipelines with **99.9%+ uptime** and **30% faster throughput**.
-* Own production reliability across:
-
-  * Nginx
-  * Prometheus / Grafana / Loki
-  * Sentry
-  * Netdata
-  * CI/CD pipelines
-  * Automated backups
-  * Security hardening
-* Driving on-call practices and blameless postmortems.
+* Platform Architecture
+* Reliability Engineering
+* Distributed Systems
+* Infrastructure Automation
+* Production Operations
+* Scalability Design
+* Technical Strategy
 
 ---
 
-## 🧠 Previous Experience
+## Profile
 
-### Data Engineer & Python Developer — Lifeweb
+Platform-focused engineer comfortable navigating both deep technical challenges and product-level tradeoffs.
 
-Built large-scale data pipelines processing millions of records daily.
+Known for designing durable systems, aligning infrastructure with business direction, and enabling fast-moving teams without sacrificing stability.
 
-**Key achievements:**
-
-* Developed ETL pipelines using Spark, Airflow, Kafka, RabbitMQ, and NiFi.
-* Improved ingestion speed by **50%** with **99%+ data accuracy**.
-* Engineered high-scale crawlers for complex platforms with minimal downtime.
-* Delivered dockerized Flask APIs powering analytics platforms.
-* Managed MongoDB, PostgreSQL, and Elasticsearch clusters.
+I value clarity over complexity and durability over short-term optimization.
 
 ---
 
-### Technical Product Manager & Team Lead — Startup Project
+## Education
 
-* Led a 5-person Agile team from ideation to delivery.
-* Translated business goals into scalable technical solutions.
-
----
-
-### Machine Learning Intern — Rahnema College
-
-* Built a demand forecasting system for a ride-hailing platform.
-* Covered EDA → feature engineering → model selection → deployment.
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-Python • SQL • Bash
-
-### Data & Distributed Systems
-
-Airflow • Spark • Kafka • RabbitMQ • NiFi
-
-### DevOps / Infrastructure
-
-Docker • Nginx • Linux • CI/CD • Observability stacks
-
-### Monitoring
-
-Prometheus • Grafana • Loki • Sentry • Netdata
-
-### Databases
-
-PostgreSQL • MongoDB • Elasticsearch
-
----
-
-## 🎓 Education
+<a href="https://kntu.ac.ir/en" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/K_N_Toosi_University_of_Technology_logo.svg/512px-K_N_Toosi_University_of_Technology_logo.svg.png" width="36"/>
+</a>
 
 **M.S. in Artificial Intelligence**
-K. N. Toosi University of Technology — Present
+K. N. Toosi University of Technology
+
+<br/>
+
+<a href="https://en.sharif.edu" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Sharif_University_of_Technology_logo.svg/512px-Sharif_University_of_Technology_logo.svg.png" width="36"/>
+</a>
 
 **B.S. in Computer Engineering**
 Sharif University of Technology
 
-Teaching Assistant for:
+---
 
-* Python Programming
-* Advanced Java
-* Software Engineering
-* Linear Algebra
+## Engineering Principles
+
+* Design for scale early
+* Reliability is a feature
+* Automate what slows teams down
+* Align infrastructure with business direction
+* Prefer durable systems over clever ones
 
 ---
 
-## 🧭 Engineering Principles
-
-* Reliability over hype
-* Automate relentlessly
-* Measure everything
-* Design for failure
-* Keep systems observable
-* Optimize for long-term scalability
-
----
-
-## 📊 What You'll Find in My Repositories
-
-* Production-grade infrastructure patterns
-* Automation tools
-* Data engineering workflows
-* Scalable backend services
-* Reliability-focused architectures
-
----
-
-## 🤝 Let's Connect
-
-If you're building large-scale systems, care about reliability, or want to collaborate — feel free to reach out.
-
-**Great systems aren’t noticed when they work — and that’s the point.**
+> Strong platforms fade into the background — and that’s exactly the point.
