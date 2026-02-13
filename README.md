@@ -1,21 +1,21 @@
 # Parham Askarzadeh
 
-**Platform Engineer focused on building the systems companies scale on**
+**Engineering platforms that enable companies to scale — technically and operationally.**
 
-I build platforms from zero to production scale — engineered for reliability and shaped by real business needs.
+I build production platforms from zero to scale — engineered for reliability and aligned with real business needs.
 
-Tehran, Iran
-LinkedIn: https://www.linkedin.com/in/parham-askarzadeh
+📍 Tehran, Iran
+📧 [parhamaskarzadeh80@gmail.com](mailto:parhamaskarzadeh80@gmail.com)
+🌐 parhamaskarzadeh.ir
+🔗 https://www.linkedin.com/in/parham-askarzadeh
 
 ---
 
 ## What I Do
 
-I operate at the intersection of engineering and business, transforming product vision into resilient platforms that enable companies to grow with confidence.
+I operate at the intersection of engineering, platform architecture, and business strategy — transforming complex product vision into resilient systems companies can confidently grow on.
 
-Experienced in owning systems end-to-end — from early architecture decisions to high-scale production environments.
-
-I focus on building infrastructure that reduces operational friction, accelerates teams, and remains dependable under pressure.
+Experienced in owning platforms end-to-end, from foundational architecture to high-scale production environments.
 
 > Build platforms that scale with the company — not against it.
 
@@ -33,20 +33,31 @@ I focus on building infrastructure that reduces operational friction, accelerate
 
 ---
 
+## Leadership
+
+* Leading cross-functional engineering initiatives
+* Driving architecture decisions in ambiguous environments
+* Aligning infrastructure with product and business direction
+* Enabling teams to ship faster with fewer operational risks
+* Mentoring engineers and promoting ownership culture
+* Balancing technical excellence with pragmatic execution
+
+---
+
 ## Profile
 
-Platform-focused engineer comfortable navigating both deep technical challenges and product-level tradeoffs.
+Platform-focused engineer comfortable navigating deep technical challenges while understanding the economic and operational realities behind technology decisions.
 
-Known for designing durable systems, aligning infrastructure with business direction, and enabling fast-moving teams without sacrificing stability.
+Known for designing durable systems, reducing operational friction, and building infrastructure that teams trust.
 
-I value clarity over complexity and durability over short-term optimization.
+I value clarity over complexity and long-term resilience over short-lived optimizations.
 
 ---
 
 ## Education
 
 <a href="https://kntu.ac.ir/en" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/K_N_Toosi_University_of_Technology_logo.svg/512px-K_N_Toosi_University_of_Technology_logo.svg.png" width="36"/>
+  <img src="/mnt/data/K._N._Toosi_University_of_Technology.png" width="42"/>
 </a>
 
 **M.S. in Artificial Intelligence**
@@ -55,7 +66,7 @@ K. N. Toosi University of Technology
 <br/>
 
 <a href="https://en.sharif.edu" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Sharif_University_of_Technology_logo.svg/512px-Sharif_University_of_Technology_logo.svg.png" width="36"/>
+  <img src="/mnt/data/csm_kisspng-sharif-university-of-technology-university-of-teheran_7c97300984.png" width="42"/>
 </a>
 
 **B.S. in Computer Engineering**
