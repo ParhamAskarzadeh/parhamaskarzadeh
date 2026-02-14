@@ -4,10 +4,16 @@
 
 I build production platforms from zero to scale — engineered for reliability and aligned with real business needs.
 
-📍 Tehran, Iran
-📧 [parhamaskarzadeh80@gmail.com](mailto:parhamaskarzadeh80@gmail.com)
-🌐 parhamaskarzadeh.ir
-🔗 https://www.linkedin.com/in/parham-askarzadeh
+- 📍 Tehran, Iran
+- 📧 [parhamaskarzadeh80@gmail.com](mailto:parhamaskarzadeh80@gmail.com)
+- 🌐 [parhamaskarzadeh.ir](https://parhamaskarzadeh.ir)
+- 🔗 [linkedin.com/in/parham-askarzadeh](https://www.linkedin.com/in/parham-askarzadeh)
+
+---
+
+## Download CV
+
+[Download CV](http://parhamaskarzadeh.ir/assets/resume.pdf)
 
 ---
 
@@ -57,7 +63,7 @@ I value clarity over complexity and long-term resilience over short-lived optimi
 ## Education
 
 <a href="https://kntu.ac.ir/en" target="_blank">
-  <img src="/mnt/data/K._N._Toosi_University_of_Technology.png" width="42"/>
+  <img src="assets/kntu.png" width="42"/>
 </a>
 
 **M.S. in Artificial Intelligence**
@@ -66,7 +72,7 @@ K. N. Toosi University of Technology
 <br/>
 
 <a href="https://en.sharif.edu" target="_blank">
-  <img src="/mnt/data/csm_kisspng-sharif-university-of-technology-university-of-teheran_7c97300984.png" width="42"/>
+  <img src="assets/sharif.png" width="42"/>
 </a>
 
 **B.S. in Computer Engineering**
